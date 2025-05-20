@@ -1,0 +1,999 @@
+---
+CLASS HERE
+OBJA
+
+TagMontag
+PITA
+3333.2
+OBJA
+3670.5.3
+HOLU
+1644.3
+OBJA
+2180.5.3
+PEBR
+ RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+OBJA
+
+TagMontag
+OBJA
+3670.5.3
+PITA
+3333.2
+OBJA
+2180.5.3
+HOLU
+1644.3
+DIMI
+ RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+OBJA
+
+TagDonnerstag
+HOLU
+1623.3
+BEAD
+
+REOB
+JA2540.5.3
+HUAN
+1192.3
+PITA
+134 3.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+PITA
+
+TagDonnerstag
+RUMA
+1192.3
+PITA
+1343.2
+BEAD
+
+REHO
+LU1623.3
+OBJA
+254 0.5.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+OBJA
+
+TagDonnerstag
+HOLU
+1623.3
+PITA
+1343.2
+OBJA
+2540.5.3
+DIMI
+
+REHU
+AN119 2.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUMA
+
+TagDienstag
+RUMA
+2792.3
+DIMI
+
+RETR
+MIEng 21.3
+MAMA
+ABU 41.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUMA
+
+TagDienstag
+MAMA
+ABU 41.2
+TRMI
+Eng 21.3
+DIMI
+
+RERU
+MA2792.3
+BALE
+371 2.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagFreitag
+TRMI
+3701.3
+FEMO
+AM_1.1
+PEBR
+ABU 22.3
+TRMI
+Eng 11.3
+MABE
+375 1.2
+FEMA
+ RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagFreitag
+TRMI
+Eng 11.3
+FEMA
+
+REFE
+
+MOAM
+_1.1
+MABE
+3751.2
+TRMI
+370 1.3
+PEBR
+ABU 2 2.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+LARI
+
+TagDienstag
+VOJO
+3064.1
+ZOMA
+2412.2
+LARI
+1832.1
+LARI
+3232.1
+DIMI
+ RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUPE
+
+TagFreitag
+GYST
+2414.2
+NAJA
+3063.1KUJÉ
+REFA
+DA3233.3
+RUPE
+183 3.1
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUPE
+
+TagDienstag
+VOJO
+3064.1
+RUPE
+1833.1
+FIMA
+2413.1
+RUPE
+3233.1
+FEMA
+ RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+CALU
+
+TagFreitag
+NAJA
+2413.1
+TEPH
+
+RENA
+JA3063.1
+RUPE
+1833.1
+FADA
+323 3.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+LARI
+
+TagMontag
+LARI
+3472.1
+FEWA
+2542.2
+LARI
+4262.1
+NIMA
+1651.1
+DIMI
+ RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUPE
+
+TagDonnerstag
+RUPE
+4263.1
+HEMI
+1222.2
+BEMA
+
+RERU
+PE3473.1
+GECH
+254 4.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+VOMI
+
+TagMontag
+VOMI
+3473.3
+VOMI
+1223.3
+FEWA
+2542.2
+PEBR
+
+RENI
+MA426 1.1
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+GECH
+
+TagDonnerstag
+LARI
+3472.1
+ZENI
+
+REHE
+MI1222.2
+GECH
+4264.3
+NIMA
+165 1.1
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+OBJA
+
+TagDonnerstag
+OBJA
+3470.5.3
+LARI
+4262.1
+NIMA
+1651.1
+CALU
+3202.1
+MEHA
+ RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+LARI
+
+TagDienstag
+LARI
+4312.1
+LARI
+2932.1
+FEMA
+
+REME
+PH1643.3
+VAJU
+117 4.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+CALU
+
+TagFreitag
+COEM
+1641.1RÜDO1172.1
+TIMA
+
+RECA
+LU2932.1
+CALU
+431 2.1
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+ZOMA
+
+TagDienstag
+GASE
+4313.3
+RELO
+
+REZO
+MA2932.2
+ZOMA
+1142.2
+MEPH
+164 3.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+GECH
+
+TagFreitagRÜDO1172.1
+NAAT
+4312.2
+TEPH
+
+REGE
+CH1644.3
+GECH
+293 4.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+CALU
+
+TagDienstag
+FIMA
+1644.3
+FIMA
+1144.3
+CALU
+2931.1
+CALU
+4311.1
+DIMI
+ RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+AUMA
+
+TagDienstag
+AUMA
+ABU 83.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUMA
+
+TagMittwoch
+RUMA
+ABU 82.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+AUMA
+
+TagMittwoch
+AUMA
+ABU 83.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagMontag
+TRMI
+EZ11.3
+RUMA
+ABU 62.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagDonnerstag
+MAMA
+ABU 61.2
+TRMI
+EZ11.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagMontag
+DIMI
+ABU 62.3
+TRMI
+EZ11.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagDienstag
+GYST
+2163.1
+FEMA
+
+REPI
+
+TAAB
+U 43.2
+TRMI
+Eng 41.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagFreitag
+FEMA
+
+RETR
+MIEng 41.3
+PITA
+ABU 43.2
+GYST
+2164.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUMA
+
+TagDienstag
+VIEL
+Eng 43.2
+RUMA
+ABU 42.3
+FEMA
+
+REGY
+ST2164.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagFreitag
+PITA
+ABU 43.2
+TEPH
+
+REGY
+ST2164.2
+TRMI
+Eng 41.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+FEMA
+
+TagFreitag
+VIEL
+Eng 41.2
+GYST
+2164.2
+TEPH
+
+REFE
+
+MAAB
+U 42.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagMontag
+PEBR
+
+REVA
+JUMathe 24.2
+GRRE
+ABU 23.1
+VAJU
+Stü/För 14.2
+TRMI
+Eng 2 1.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+TRMI
+
+TagDonnerstag
+TRMI
+Eng 21.3
+VAJU
+Mathe 24.2
+PEBR
+
+REVA
+JUStü/För 14.2
+PEBR
+ABU 2 1.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+MABE
+
+TagMontag
+GRRE
+ABU 23.1
+VIEL
+Eng 21.2
+MABE
+Stü/För 11.2
+RELO
+
+REMA
+BEMathe 2 1.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+MABE
+
+TagDonnerstag
+PEBR
+ABU 21.1
+PEBR
+
+REMA
+BEMathe 21.2
+MABE
+Stü/För 11.2
+VIEL
+Eng 2 1.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUMA
+
+TagMontag
+MABE
+Mathe 21.2
+PEBR
+
+RERU
+
+MAAB
+U 22.3
+MABE
+Stü/För 11.2
+VIEL
+Eng 2 3.3
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUPE
+
+TagDienstag
+CALU
+Praxis 41.1TagMittwoch
+RUPE
+426 3.1
+OBJA
+254 0.5.3
+OBJA
+347 0.5.3
+VOJO
+122 4.1Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+RUPE
+
+TagMittwoch
+HEMA
+4312.2
+VOJO
+1144.1
+RUPE
+2933.1
+RUPE
+1643.1TagFreitag
+GECH
+Praxis 2 4.3Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+VAJU
+
+TagDienstag
+CAMA
+3002.2KUJÉ
+REGA
+SE3061.2
+VAJU
+1454.2
+ZOMA
+241 2.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+VOJO
+
+TagFreitag
+VAJU
+2413.3
+VOJO
+1454.1
+VOJO
+3004.1
+TEPH
+
+REVO
+JO306 4.1
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+VAJU
+
+TagMontag
+HOBR
+1411.1
+VOJO
+1694.1
+PEBR
+
+REVA
+JU1584.2
+VAJU
+129 4.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+VOJO
+
+TagDonnerstag
+HEMI
+1222.2
+BACA
+
+REVO
+JO1584.1
+VOJO
+1694.1
+HOBR
+141 2.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+VAJU
+
+TagDienstag
+VAJU
+1234.2
+VAJU
+1144.2
+FEWA
+3194.2
+FEMA
+REJÖHE164 3.2
+VAJU
+431 4.2
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE
+VOJO
+
+TagFreitag
+VOJO
+1234.1
+FEMA
+
+RENI
+MA1641.1
+NIMA
+3191.1
+NIMA
+114 1.1
+VAJU
+431 4.1
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMittwoch
+BIDA
+FE3FSM102
+AKBE
+Mathe 3 FSM101
+BIDA
+LM3FSM102
+AKBE
+AFK3FSaM101
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMittwoch
+BIDA
+LM3FSM102
+AKBE
+Mathe 3 FSM101
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMontag
+AKBE
+BK2BioFSaM101
+PEBR
+
+REHE
+
+TABK
+2BioFSb101
+AKBE
+BK2MatFSM101
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMontag
+BIDA
+BK2BioFSaM102
+HETA
+BK2BioFSb101
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+AKBE
+BK1BioFSM101
+DIMI
+
+REVI
+ELEng 2310
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+VIEL
+Eng 2310
+AKBE
+BK1MatFSM101
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDonnerstag
+DIMI
+
+REFE
+
+MAAB
+U 6310
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+BIDA
+BK2BioFSaM102
+GEAM
+ABU 4306
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMittwoch
+AKBE
+BK1MatFSM101
+VIEL
+Eng 1310
+DIMI
+
+REGE
+
+AMAB
+U 2306
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagFreitag
+SCRA
+AFK3FSa304
+FRDA
+AFK3FSb303BÜ
+ANFE
+3CheFS310
+FRDA
+LM3FS303
+FRDA
+Mathe 3 FS 303
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagFreitag
+FRDA
+AFK3FSa303
+FRDA
+Mathe 3 FS303
+SCRA
+AFK3FSb304
+FRDA
+LM3FS303BÜ
+ANFE
+3CheFS 310
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+FRDA
+BK2CheFS303
+DIMI
+
+REFR
+
+DABK
+2MatFS303
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMontag
+FRDA
+BK2CheFSa303
+SCRA
+BK2CheFSb304
+FRDA
+BK2MatFS303
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+FEMA
+
+RESC
+
+RABK
+1MatFS304
+SCKA
+Eng 2M102
+SCRO
+BK1CheFS101
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+SCRA
+BK1MatFS304
+KNAL
+Eng 2305
+SCRO
+BK1CheFSa101
+SCRA
+BK1CheFSb304
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDonnerstag
+DIMI
+
+REDI
+
+MIAB
+U 6310
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMontag
+SCRA
+BK2CheFS304
+DIMI
+ABU 4306
+PEBR
+RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMittwoch
+GEAM
+ABU 2306
+SCKA
+Eng 2101
+SCRA
+BK1CheFS304
+BACA
+RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMittwoch
+JEAM
+AFK3FSa305
+SCDI
+BK3
+FLFS
+305
+SCJO
+LM3FS305
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMontag
+JEAM
+BK2
+FLFS
+a305
+FRDA
+BK2
+FLFS
+b303
+RELO
+RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMontag
+JEAM
+BK2
+FLFS
+a305
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+DIMI
+
+RESC
+
+ROBK
+1
+FLFS
+a101
+KNAL
+Eng 2304
+LALE
+BK1
+FLFS
+b305
+FRDA
+BK1
+FLFS
+c 303
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+GEAM
+ABU 4306
+JEAM
+BK2
+FLFS
+a305
+DIMI
+RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagMittwoch
+BRTH
+ABU 2406
+KNAL
+Eng 2306
+SCRA
+BK1MatFS304
+DIMI
+RE
+Mittwoch, 14. Mai 2025  
+---
+CLASS HERE#Fehler
+TagDienstag
+AKBE
+NWG Bio_2M101
+Mittwoch, 14. Mai 2025  
+---
+8
+XSPO
+#Fehler
+TagMontag
+PEBR
+Spo1
+FSRE
+TagMittwoch
+DIMI
+Spo2FS REMittwoch, 14. Mai 2025  
