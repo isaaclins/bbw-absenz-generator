@@ -27,11 +27,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
       - name: Build with static files
         run: |
-          # No build step needed for static HTML
-          cp -r * ./_site/
+          # Create the _site directory first
+          mkdir -p _site
+          # Copy all files to the _site directory
+          cp -r index.html _site/
+          cp -r .github _site/ 2>/dev/null || :
+          # Copy any other files that might exist
+          find . -maxdepth 1 -type f -not -path "./_site/*" -not -path "./.git*" -exec cp {} _site/ \; 2>/dev/null || :
         shell: bash
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
