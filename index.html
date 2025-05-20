@@ -187,7 +187,10 @@
     <div class="form-container">
         <!-- Name Row -->
         <div class="form-row">
-            <div>Name, Vorname</div>
+            <div style="display: flex; justify-content: flex-start; align-items: center;">
+                <div style="width: 150px;">Name, Vorname</div>
+                <input type="text" style="flex: 1; border: none; outline: none;" placeholder="Name und Vorname eingeben">
+            </div>
         </div>
         
         <!-- Absence Type Row with Class -->
@@ -195,27 +198,32 @@
             <div style="display: flex; justify-content: flex-start; align-items: center;">
                 <div class="radio-group" style="margin-right: 80px;">
                     <div class="radio-container">
-                        <input type="radio" name="absenceType" id="absenameldung">
-                        <div>Absenameldung</div>
+                        <input type="radio" name="absenceType" id="Absenzmeldung">
+                        <div>Absenzmeldung</div>
                     </div>
                     <div class="radio-container">
                         <input type="radio" name="absenceType" id="dispensationsgesuch">
                         <div>Dispensationsgesuch</div>
                     </div>
                 </div>
-                <div>Klasse/Kurs</div>
+                <div style="width: 100px;">Klasse/Kurs</div>
+                <input type="text" style="flex: 1; border: none; outline: none;" placeholder="Klasse oder Kurs eingeben">
             </div>
         </div>
         
         <!-- Absence Date Row -->
         <div class="form-row">
-            <div>Datum der Abwesenheit</div>
+            <div style="display: flex; justify-content: flex-start; align-items: center;">
+                <div style="width: 150px;">Datum der Abwesenheit</div>
+                <input type="text" style="flex: 1; border: none; outline: none;" placeholder="Datum eingeben (z.B. 01.01.2025)">
+            </div>
         </div>
         
         <!-- Absence Reason Row -->
         <div class="form-row">
-            <div style="display: flex; justify-content: space-between; align-items: center;">
-                <div>Grund der Abwesenheit</div>
+            <div style="display: flex; justify-content: flex-start; align-items: center;">
+                <div style="width: 150px;">Grund der Abwesenheit</div>
+                <input type="text" style="flex: 1; border: none; outline: none;" placeholder="Grund der Abwesenheit eingeben">
             </div>
         </div>
         
@@ -240,7 +248,7 @@
         <table>
             <thead>
                 <tr>
-                    <th>Bellagen</th>
+                    <th>Lektionen</th>
                     <th>Von der Abwesenheit betroffene Lehrpersonen</th>
                     <th colspan="3">Visum der Lehrpersonen</th>
                 </tr>
@@ -254,46 +262,46 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
                 </tr>
                 <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
                 </tr>
                 <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
                 </tr>
                 <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
                 </tr>
                 <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
                 </tr>
                 <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td><input type="text" style="width: 100%; border: none; outline: none;"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
+                    <td style="text-align: center;"><input type="checkbox"></td>
                 </tr>
             </tbody>
         </table>
@@ -303,17 +311,26 @@
             <!-- Left side: Signatures -->
             <div style="width: 48%;">
                 <div style="margin-bottom: 40px;">
-                    <div class="signature-line"></div>
+                    <div style="position: relative;">
+                        <input type="text" style="width: 100%; border: none; outline: none; position: absolute; bottom: 0; left: 0; background: transparent;">
+                        <div class="signature-line"></div>
+                    </div>
                     <div>Unterschrift Lernende/Lernender</div>
                 </div>
                 
                 <div style="margin-bottom: 40px;">
-                    <div class="signature-line"></div>
+                    <div style="position: relative;">
+                        <input type="text" style="width: 100%; border: none; outline: none; position: absolute; bottom: 0; left: 0; background: transparent;">
+                        <div class="signature-line"></div>
+                    </div>
                     <div>Datum, Unterschrift Inhaber/-in der elterlichen Sorge</div>
                 </div>
                 
                 <div>
-                    <div class="signature-line"></div>
+                    <div style="position: relative;">
+                        <input type="text" style="width: 100%; border: none; outline: none; position: absolute; bottom: 0; left: 0; background: transparent;">
+                        <div class="signature-line"></div>
+                    </div>
                     <div>Datum, Unterschrift und Stempel des Lehrbetriebes</div>
                 </div>
             </div>
@@ -339,12 +356,25 @@
                 
                 <div style="margin-top: 20px;">
                     <div>Bemerkungen</div>
-                    <div class="signature-line"></div>
+                    <div style="position: relative;">
+                        <input type="text" style="width: 100%; border: none; outline: none; position: absolute; bottom: 0; left: 0; background: transparent;">
+                        <div class="signature-line"></div>
+                    </div>
                 </div>
                 
                 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-                    <div>Datum</div>
-                    <div>Visum Klassenlehr-</div>
+                    <div style="width: 40%;">
+                        <div>Datum</div>
+                        <div style="position: relative;">
+                            <input type="text" style="width: 100%; border: none; outline: none; position: absolute; bottom: 0; left: 0; background: transparent;">
+                        </div>
+                    </div>
+                    <div style="width: 55%;">
+                        <div>Visum Klassenlehrperson</div>
+                        <div style="position: relative;">
+                            <input type="text" style="width: 100%; border: none; outline: none; position: absolute; bottom: 0; left: 0; background: transparent;">
+                        </div>
+                    </div>
                 </div>
                 <div class="signature-line"></div>
                 
@@ -364,7 +394,10 @@
                     </div>
                 </div>
                 
-                <div class="signature-line" style="margin-top: 30px;"></div>
+                <div style="position: relative; margin-top: 30px;">
+                    <input type="text" style="width: 100%; border: none; outline: none; position: absolute; bottom: 0; left: 0; background: transparent;">
+                    <div class="signature-line"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -382,6 +415,25 @@
             
             // Element auswählen, das als PDF gerendert werden soll
             const element = document.querySelector('.form-container');
+            
+            // Sicherstellen, dass alle input-Werte vor dem Rendern sichtbar sind
+            document.querySelectorAll('input[type="text"]').forEach(input => {
+                if (input.value) {
+                    // Wir erstellen ein neues Element, um den Input-Wert zu zeigen
+                    const valueSpan = document.createElement('span');
+                    valueSpan.textContent = input.value;
+                    valueSpan.style.position = 'absolute';
+                    valueSpan.style.bottom = '0';
+                    valueSpan.style.left = '0';
+                    valueSpan.style.width = '100%';
+                    
+                    // Füge das Element neben dem Input ein
+                    input.parentNode.appendChild(valueSpan);
+                    
+                    // Verstecke den Input temporär
+                    input.style.opacity = '0';
+                }
+            });
             
             // Formular in Canvas umwandeln
             html2canvas(element, {
@@ -411,6 +463,18 @@
                 
                 // PDF herunterladen
                 pdf.save('Absenzmeldung_Dispensationsgesuch.pdf');
+                
+                // Entferne die temporären Span-Elemente und mache die Inputs wieder sichtbar
+                document.querySelectorAll('input[type="text"]').forEach(input => {
+                    // Entfernen des erzeugten Spans, falls vorhanden
+                    const valueSpan = input.parentNode.querySelector('span');
+                    if (valueSpan) {
+                        valueSpan.remove();
+                    }
+                    
+                    // Input wieder sichtbar machen
+                    input.style.opacity = '1';
+                });
             });
         });
     </script>
